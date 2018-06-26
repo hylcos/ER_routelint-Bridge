@@ -1,0 +1,1496 @@
+[
+  {
+    "lat": 52.405551,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Amsterdam",
+    "long": 4.920195
+  },
+  {
+    "lat": 52.370503,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Amsterdam",
+    "long": 4.837454
+  },
+  {
+    "lat": 52.347933,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Amsterdam (Hoofdvestiging))",
+    "long": 4.854758
+  },
+  {
+    "lat": 52.359967,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Amsterdam",
+    "long": 4.915977
+  },
+  {
+    "lat": 52.294962,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Amsterdam Zuidoost",
+    "long": 4.957124
+  },
+  {
+    "lat": 52.456111,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Monnickendam",
+    "long": 5.039417
+  },
+  {
+    "lat": 52.284214,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Amstelveen",
+    "long": 4.836176
+  },
+  {
+    "lat": 52.216597,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Post Zuid (Hilversum)",
+    "long": 5.202541
+  },
+  {
+    "lat": 52.267655,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Post Noord (Blaricum)",
+    "long": 5.206871
+  },
+  {
+    "lat": 52.373482,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Almere",
+    "long": 5.237132
+  },
+  {
+    "lat": 52.30297,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Post Vechtstreek (Weesp)",
+    "long": 5.042229
+  },
+  {
+    "lat": 52.258325,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Aalsmeer",
+    "long": 4.76297
+  },
+  {
+    "lat": 52.516748,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Purmerend",
+    "long": 4.974413
+  },
+  {
+    "lat": 52.451792,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zaandam",
+    "long": 4.826735
+  },
+  {
+    "lat": 52.49936,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Wormerveer",
+    "long": 4.776945
+  },
+  {
+    "lat": 52.699002,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Hoogkarspel",
+    "long": 5.17892
+  },
+  {
+    "lat": 52.684621,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Wognum",
+    "long": 5.027259
+  },
+  {
+    "lat": 52.704501,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Noord-Scharwoude",
+    "long": 4.804871
+  },
+  {
+    "lat": 52.793909,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Schagen",
+    "long": 4.784409
+  },
+  {
+    "lat": 52.847895,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Wieringerwerf",
+    "long": 5.02176
+  },
+  {
+    "lat": 52.912626,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Den Helder",
+    "long": 4.784852
+  },
+  {
+    "lat": 53.049969,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Texel (Den Burg)",
+    "long": 4.790853
+  },
+  {
+    "lat": 52.605563,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Alkmaar Zuid",
+    "long": 4.754364
+  },
+  {
+    "lat": 52.645452,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Alkmaar Noord",
+    "long": 4.768714
+  },
+  {
+    "lat": 52.505429,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Heemskerk",
+    "long": 4.643566
+  },
+  {
+    "lat": 52.456769,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Velsen",
+    "long": 4.666747
+  },
+  {
+    "lat": 52.386706,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Haarlem",
+    "long": 4.616179
+  },
+  {
+    "lat": 52.289761,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Hoofddorp",
+    "long": 4.679422
+  },
+  {
+    "lat": 52.278004,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Hillegom",
+    "long": 4.570587
+  },
+  {
+    "lat": 52.229593,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Noordwijk",
+    "long": 4.465395
+  },
+  {
+    "lat": 52.145403,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Wassenaar",
+    "long": 4.402498
+  },
+  {
+    "lat": 52.087748,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Leidschendam-Voorburg",
+    "long": 4.376788
+  },
+  {
+    "lat": 52.161062,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Leiden",
+    "long": 4.471912
+  },
+  {
+    "lat": 52.155914,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Leiderdorp",
+    "long": 4.540847
+  },
+  {
+    "lat": 52.115394,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Alphen aan den Rijn",
+    "long": 4.665103
+  },
+  {
+    "lat": 52.18613,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Nieuwveen",
+    "long": 4.759155
+  },
+  {
+    "lat": 52.060919,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Den Haag (Waldorpstraat)",
+    "long": 4.311042
+  },
+  {
+    "lat": 52.0494,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Den Haag",
+    "long": 4.252127
+  },
+  {
+    "lat": 52.003841,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Delft",
+    "long": 4.351256
+  },
+  {
+    "lat": 51.988968,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Berkel en Rodenrijs",
+    "long": 4.476591
+  },
+  {
+    "lat": 51.987824,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Naaldwijk (Westland)",
+    "long": 4.1974
+  },
+  {
+    "lat": 52.06177,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Zoetermeer",
+    "long": 4.487607
+  },
+  {
+    "lat": 52.035853,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zoetermeer",
+    "long": 4.495371
+  },
+  {
+    "lat": 52.00709,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Gouda",
+    "long": 4.727292
+  },
+  {
+    "lat": 52.004153,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Moordrecht",
+    "long": 4.641846
+  },
+  {
+    "lat": 51.924637,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Capelle aan den Ijssel",
+    "long": 4.578805
+  },
+  {
+    "lat": 51.929285,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Nederlek",
+    "long": 4.717676
+  },
+  {
+    "lat": 51.85397,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Barendrecht",
+    "long": 4.513724
+  },
+  {
+    "lat": 51.918127,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Rotterdam-Centrum",
+    "long": 4.486995
+  },
+  {
+    "lat": 51.940762,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Rotterdam-Noord",
+    "long": 4.496518
+  },
+  {
+    "lat": 51.87948,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Rotterdam - Zuid",
+    "long": 4.535813
+  },
+  {
+    "lat": 51.918226,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Vlaardingen",
+    "long": 4.336484
+  },
+  {
+    "lat": 51.956028,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Maasvlakte",
+    "long": 4.025659
+  },
+  {
+    "lat": 51.840285,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Spijkenisse",
+    "long": 4.345761
+  },
+  {
+    "lat": 51.832578,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Hellevoetsluis",
+    "long": 4.111414
+  },
+  {
+    "lat": 51.897421,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Brielle",
+    "long": 4.173624
+  },
+  {
+    "lat": 51.750301,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Dirksland",
+    "long": 4.117403
+  },
+  {
+    "lat": 51.816756,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Goedereede",
+    "long": 3.985267
+  },
+  {
+    "lat": 51.695463,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Oude Tonge",
+    "long": 4.220836
+  },
+  {
+    "lat": 51.773583,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Klaaswaal",
+    "long": 4.440789
+  },
+  {
+    "lat": 51.79956,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Dordrecht",
+    "long": 4.683503
+  },
+  {
+    "lat": 51.824116,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zwijndrecht",
+    "long": 4.628579
+  },
+  {
+    "lat": 51.832048,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Papendrecht",
+    "long": 4.705338
+  },
+  {
+    "lat": 52.033866,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Montfoort",
+    "long": 4.934713
+  },
+  {
+    "lat": 52.027466,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Nieuwegein",
+    "long": 5.065771
+  },
+  {
+    "lat": 52.080168,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Woerden",
+    "long": 4.893105
+  },
+  {
+    "lat": 52.108752,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Utrecht (Vader Rijndreef)",
+    "long": 5.11511
+  },
+  {
+    "lat": 52.081389,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Utrecht (Andreaelaan)",
+    "long": 5.137597
+  },
+  {
+    "lat": 52.122647,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Maarssen",
+    "long": 5.0334
+  },
+  {
+    "lat": 52.217581,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Vinkeveen",
+    "long": 4.934165
+  },
+  {
+    "lat": 52.164396,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Wilnis",
+    "long": 4.917312
+  },
+  {
+    "lat": 52.090303,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zeist",
+    "long": 5.260115
+  },
+  {
+    "lat": 52.208606,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Baarn",
+    "long": 5.282747
+  },
+  {
+    "lat": 52.121598,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Soesterberg",
+    "long": 5.276818
+  },
+  {
+    "lat": 52.157101,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Barneveld",
+    "long": 5.569141
+  },
+  {
+    "lat": 52.152208,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Amersfoort Centrum",
+    "long": 5.383846
+  },
+  {
+    "lat": 52.190046,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Amersfoort Noord",
+    "long": 5.405633
+  },
+  {
+    "lat": 52.334953,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Harderwijk",
+    "long": 5.628557
+  },
+  {
+    "lat": 52.282207,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Ermelo (Putterweg)",
+    "long": 5.622848
+  },
+  {
+    "lat": 52.343884,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zeewolde",
+    "long": 5.475695
+  },
+  {
+    "lat": 52.003533,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Rhenen",
+    "long": 5.542449
+  },
+  {
+    "lat": 52.075085,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Woudenberg",
+    "long": 5.425422
+  },
+  {
+    "lat": 52.033376,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Doorn",
+    "long": 5.337658
+  },
+  {
+    "lat": 52.002539,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Amerongen",
+    "long": 5.453175
+  },
+  {
+    "lat": 52.023363,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Houten",
+    "long": 5.156132
+  },
+  {
+    "lat": 51.899002,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Tiel",
+    "long": 5.437767
+  },
+  {
+    "lat": 51.93635,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Kesteren",
+    "long": 5.571153
+  },
+  {
+    "lat": 51.951752,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Culemborg",
+    "long": 5.224723
+  },
+  {
+    "lat": 51.871715,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Rumpt",
+    "long": 5.196842
+  },
+  {
+    "lat": 51.839263,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Gorinchem",
+    "long": 4.957128
+  },
+  {
+    "lat": 51.911185,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Meerkerk",
+    "long": 4.986814
+  },
+  {
+    "lat": 51.77101,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Nieuwendijk*(1)",
+    "long": 4.925614
+  },
+  {
+    "lat": 51.783342,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Giessen*(2)",
+    "long": 5.034324
+  },
+  {
+    "lat": 51.656575,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zierikzee",
+    "long": 3.927574
+  },
+  {
+    "lat": 51.651,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Oosterland",
+    "long": 4.032108
+  },
+  {
+    "lat": 51.697273,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Burgh-Haamstede",
+    "long": 3.748928
+  },
+  {
+    "lat": 51.481791,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Middelburg",
+    "long": 3.596665
+  },
+  {
+    "lat": 51.532331,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Grijpskerke",
+    "long": 3.556907
+  },
+  {
+    "lat": 51.463188,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Kruiningen",
+    "long": 4.030563
+  },
+  {
+    "lat": 51.49464,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Goes",
+    "long": 3.875856
+  },
+  {
+    "lat": 51.325067,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Oostburg",
+    "long": 3.482199
+  },
+  {
+    "lat": 51.307716,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Terneuzen",
+    "long": 3.860493
+  },
+  {
+    "lat": 51.286395,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Hulst",
+    "long": 4.049211
+  },
+  {
+    "lat": 51.509432,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Bergen op Zoom",
+    "long": 4.300449
+  },
+  {
+    "lat": 51.425496,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Hoogerheide",
+    "long": 4.322595
+  },
+  {
+    "lat": 51.627257,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Dinteloord ",
+    "long": 4.367674
+  },
+  {
+    "lat": 51.547267,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Poortvliet",
+    "long": 4.146051
+  },
+  {
+    "lat": 51.550067,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Roosendaal (Rucphen)",
+    "long": 4.539961
+  },
+  {
+    "lat": 51.565928,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Roosendaal-Noord (Oud-Gastel)",
+    "long": 4.462226
+  },
+  {
+    "lat": 51.64737,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zevenbergen",
+    "long": 4.610734
+  },
+  {
+    "lat": 51.597454,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Breda-Noord",
+    "long": 4.739176
+  },
+  {
+    "lat": 51.539682,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Breda-Zuid (Ulvenhout)",
+    "long": 4.794776
+  },
+  {
+    "lat": 51.571904,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Etten Leur",
+    "long": 4.65905
+  },
+  {
+    "lat": 51.5158,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Rijsbergen",
+    "long": 4.701441
+  },
+  {
+    "lat": 51.657257,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Oosterhout",
+    "long": 4.85119
+  },
+  {
+    "lat": 51.540833,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Tilburg-Zuid",
+    "long": 5.101218
+  },
+  {
+    "lat": 51.578378,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Tilburg-Noord",
+    "long": 5.056548
+  },
+  {
+    "lat": 51.593488,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Oisterwijk ",
+    "long": 5.177517
+  },
+  {
+    "lat": 51.553714,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Gilze ",
+    "long": 4.938349
+  },
+  {
+    "lat": 51.675161,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Waalwijk",
+    "long": 5.048035
+  },
+  {
+    "lat": 51.701328,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "s-Hertogenbosch",
+    "long": 5.301857
+  },
+  {
+    "lat": 51.587101,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Boxtel",
+    "long": 5.331074
+  },
+  {
+    "lat": 51.802749,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zaltbommel",
+    "long": 5.242368
+  },
+  {
+    "lat": 51.752564,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Oss",
+    "long": 5.553894
+  },
+  {
+    "lat": 51.750474,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Velp NB",
+    "long": 5.729692
+  },
+  {
+    "lat": 51.642815,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Uden",
+    "long": 5.607666
+  },
+  {
+    "lat": 51.697709,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Haps",
+    "long": 5.881461
+  },
+  {
+    "lat": 51.60545,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Veghel",
+    "long": 5.533288
+  },
+  {
+    "lat": 51.366602,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Eersel",
+    "long": 5.317129
+  },
+  {
+    "lat": 51.359723,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Bladel",
+    "long": 5.194671
+  },
+  {
+    "lat": 51.342591,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Valkenswaard",
+    "long": 5.473602
+  },
+  {
+    "lat": 51.435173,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Eindhoven",
+    "long": 5.475504
+  },
+  {
+    "lat": 51.504239,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Best",
+    "long": 5.401175
+  },
+  {
+    "lat": 51.46873,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Helmond",
+    "long": 5.678349
+  },
+  {
+    "lat": 51.519663,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Lieshout",
+    "long": 5.611967
+  },
+  {
+    "lat": 51.469023,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Deurne ",
+    "long": 5.791184
+  },
+  {
+    "lat": 51.517829,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Venray",
+    "long": 5.98122
+  },
+  {
+    "lat": 51.571375,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Well",
+    "long": 6.083904
+  },
+  {
+    "lat": 51.360376,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Venlo",
+    "long": 6.159651
+  },
+  {
+    "lat": 51.391838,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Blerick",
+    "long": 6.088487
+  },
+  {
+    "lat": 51.447073,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Horst",
+    "long": 6.066177
+  },
+  {
+    "lat": 51.270396,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Weert",
+    "long": 5.727096
+  },
+  {
+    "lat": 51.310282,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Maarheeze",
+    "long": 5.62915
+  },
+  {
+    "lat": 51.227765,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Kelpen",
+    "long": 5.815826
+  },
+  {
+    "lat": 51.190097,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Roermond",
+    "long": 5.997714
+  },
+  {
+    "lat": 51.167192,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Herten",
+    "long": 5.959092
+  },
+  {
+    "lat": 51.26801,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Roggel",
+    "long": 5.929688
+  },
+  {
+    "lat": 51.117679,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Echt ",
+    "long": 5.877069
+  },
+  {
+    "lat": 50.980648,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Geleen",
+    "long": 5.84272
+  },
+  {
+    "lat": 50.850244,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Maastricht",
+    "long": 5.731676
+  },
+  {
+    "lat": 50.816533,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Gulpen",
+    "long": 5.901553
+  },
+  {
+    "lat": 50.887678,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Heerlen",
+    "long": 5.968567
+  },
+  {
+    "lat": 51.82756,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Nijmegen",
+    "long": 5.867943
+  },
+  {
+    "lat": 51.687233,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Gennep",
+    "long": 5.97014
+  },
+  {
+    "lat": 51.843773,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Beuningen",
+    "long": 5.75957
+  },
+  {
+    "lat": 51.876647,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Beneden Leeuwen",
+    "long": 5.519646
+  },
+  {
+    "lat": 52.041225,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Ede",
+    "long": 5.670552
+  },
+  {
+    "lat": 51.977737,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Arnhem IJsseloord",
+    "long": 5.971437
+  },
+  {
+    "lat": 51.932382,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zevenaar",
+    "long": 6.080482
+  },
+  {
+    "lat": 51.950102,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Doetinchem",
+    "long": 6.29037
+  },
+  {
+    "lat": 51.944911,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Varsseveld",
+    "long": 6.458842
+  },
+  {
+    "lat": 51.915266,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Etten",
+    "long": 6.342142
+  },
+  {
+    "lat": 51.964697,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Winterswijk",
+    "long": 6.705533
+  },
+  {
+    "lat": 52.039618,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Groenlo",
+    "long": 6.610077
+  },
+  {
+    "lat": 52.123135,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zutphen",
+    "long": 6.216618
+  },
+  {
+    "lat": 52.07168,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Baak",
+    "long": 6.222373
+  },
+  {
+    "lat": 52.123688,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Borculo",
+    "long": 6.536293
+  },
+  {
+    "lat": 52.240708,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Apeldoorn",
+    "long": 5.976204
+  },
+  {
+    "lat": 52.184577,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Apeldoorn",
+    "long": 5.985113
+  },
+  {
+    "lat": 52.250879,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Deventer",
+    "long": 6.174186
+  },
+  {
+    "lat": 52.297557,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Deventer Noord (Schalkhaar)",
+    "long": 6.196416
+  },
+  {
+    "lat": 52.374353,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Nijverdal",
+    "long": 6.472439
+  },
+  {
+    "lat": 52.248875,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Markelo",
+    "long": 6.472453
+  },
+  {
+    "lat": 52.188354,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Haaksbergen",
+    "long": 6.736567
+  },
+  {
+    "lat": 52.219729,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Enschede",
+    "long": 6.885338
+  },
+  {
+    "lat": 52.284332,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Hengelo",
+    "long": 6.777294
+  },
+  {
+    "lat": 52.321681,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Oldenzaal",
+    "long": 6.926038
+  },
+  {
+    "lat": 52.336235,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Almelo",
+    "long": 6.645534
+  },
+  {
+    "lat": 52.404599,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Tubbergen",
+    "long": 6.785183
+  },
+  {
+    "lat": 52.452952,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Vroomshoop",
+    "long": 6.580147
+  },
+  {
+    "lat": 52.604366,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Dedemsvaart",
+    "long": 6.451531
+  },
+  {
+    "lat": 52.538776,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Ommen",
+    "long": 6.408233
+  },
+  {
+    "lat": 52.67506,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Coevorden",
+    "long": 6.746462
+  },
+  {
+    "lat": 52.569914,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Hardenberg",
+    "long": 6.638777
+  },
+  {
+    "lat": 52.753379,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Emmen",
+    "long": 6.878805
+  },
+  {
+    "lat": 52.784699,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Emmen-ziekenhuis",
+    "long": 6.911003
+  },
+  {
+    "lat": 52.806098,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Emmen-Noord",
+    "long": 6.979232
+  },
+  {
+    "lat": 52.73233,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Klazienaveen",
+    "long": 6.977294
+  },
+  {
+    "lat": 52.710866,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Hoogeveen Buitenvaart",
+    "long": 6.510643
+  },
+  {
+    "lat": 52.727334,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Hoogeveen",
+    "long": 6.459695
+  },
+  {
+    "lat": 52.690788,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Meppel",
+    "long": 6.219774
+  },
+  {
+    "lat": 52.60774,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Rouveen",
+    "long": 6.194434
+  },
+  {
+    "lat": 52.846396,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Dieverbrug",
+    "long": 6.334807
+  },
+  {
+    "lat": 52.489788,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zwolle",
+    "long": 6.130881
+  },
+  {
+    "lat": 52.536571,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zwolle West ",
+    "long": 6.046919
+  },
+  {
+    "lat": 52.643158,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Zwartsluis",
+    "long": 6.079249
+  },
+  {
+    "lat": 52.446852,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Elburg",
+    "long": 5.864511
+  },
+  {
+    "lat": 52.389198,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Raalte",
+    "long": 6.288582
+  },
+  {
+    "lat": 52.373352,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Heerde",
+    "long": 6.014384
+  },
+  {
+    "lat": 52.531464,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Dronten",
+    "long": 5.721296
+  },
+  {
+    "lat": 52.550433,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "IJsselmuiden",
+    "long": 5.936991
+  },
+  {
+    "lat": 52.698787,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Emmeloord",
+    "long": 5.757777
+  },
+  {
+    "lat": 52.782328,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Steenwijk",
+    "long": 6.11613
+  },
+  {
+    "lat": 52.957898,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Nieuwehorne",
+    "long": 6.060433
+  },
+  {
+    "lat": 52.979526,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Oosterwolde",
+    "long": 6.295716
+  },
+  {
+    "lat": 52.972835,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Heerenveen",
+    "long": 5.933384
+  },
+  {
+    "lat": 52.886219,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Wolvega",
+    "long": 6.004208
+  },
+  {
+    "lat": 52.959339,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Joure",
+    "long": 5.776808
+  },
+  {
+    "lat": 52.854912,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Lemmer",
+    "long": 5.718868
+  },
+  {
+    "lat": 53.036261,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Sneek",
+    "long": 5.644221
+  },
+  {
+    "lat": 53.059168,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Bolsward",
+    "long": 5.544421
+  },
+  {
+    "lat": 52.910174,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Koudum",
+    "long": 5.450533
+  },
+  {
+    "lat": 53.197911,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Franeker",
+    "long": 5.54298
+  },
+  {
+    "lat": 53.182892,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Harlingen",
+    "long": 5.463198
+  },
+  {
+    "lat": 53.361694,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Terschelling",
+    "long": 5.215828
+  },
+  {
+    "lat": 53.298066,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Vlieland",
+    "long": 5.075697
+  },
+  {
+    "lat": 53.212879,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Leeuwarden (Elzenstraat)",
+    "long": 5.816364
+  },
+  {
+    "lat": 53.189576,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Leeuwarden (Oostergoweg)",
+    "long": 5.799376
+  },
+  {
+    "lat": 53.093152,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Grou",
+    "long": 5.826374
+  },
+  {
+    "lat": 53.267637,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Stiens",
+    "long": 5.751112
+  },
+  {
+    "lat": 53.320704,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Dokkum",
+    "long": 5.985058
+  },
+  {
+    "lat": 53.363132,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Metslawier",
+    "long": 6.066312
+  },
+  {
+    "lat": 53.446127,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Nes (Ameland)",
+    "long": 5.766169
+  },
+  {
+    "lat": 53.480317,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Schiermonnikoog",
+    "long": 6.167278
+  },
+  {
+    "lat": 53.109364,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Drachten",
+    "long": 6.083839
+  },
+  {
+    "lat": 53.112951,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Drachten",
+    "long": 6.129895
+  },
+  {
+    "lat": 53.215763,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Noordbergum",
+    "long": 5.982708
+  },
+  {
+    "lat": 53.251768,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Buitenpost",
+    "long": 6.132581
+  },
+  {
+    "lat": 53.149387,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Roden",
+    "long": 6.436795
+  },
+  {
+    "lat": 53.169898,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Niebert",
+    "long": 6.32573
+  },
+  {
+    "lat": 52.997493,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Assen Centrum",
+    "long": 6.573448
+  },
+  {
+    "lat": 52.995845,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Assen",
+    "long": 6.520972
+  },
+  {
+    "lat": 52.863639,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Beilen",
+    "long": 6.492888
+  },
+  {
+    "lat": 52.844356,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Westerbork",
+    "long": 6.617236
+  },
+  {
+    "lat": 53.055563,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Annen",
+    "long": 6.733442
+  },
+  {
+    "lat": 52.977603,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Stadskanaal",
+    "long": 6.971354
+  },
+  {
+    "lat": 52.921891,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Borger",
+    "long": 6.783146
+  },
+  {
+    "lat": 53.027367,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Vlagtwedde",
+    "long": 7.103608
+  },
+  {
+    "lat": 52.887523,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Ter Apel",
+    "long": 7.05219
+  },
+  {
+    "lat": 53.160549,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Sappemeer",
+    "long": 6.809673
+  },
+  {
+    "lat": 53.100635,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Veendam",
+    "long": 6.881025
+  },
+  {
+    "lat": 53.135682,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Winschoten",
+    "long": 7.045278
+  },
+  {
+    "lat": 53.218583,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Groningen-Zuid",
+    "long": 6.589841
+  },
+  {
+    "lat": 53.231612,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Groningen-Noord",
+    "long": 6.553511
+  },
+  {
+    "lat": 53.141178,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Eelde",
+    "long": 6.556606
+  },
+  {
+    "lat": 53.319979,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Appingedam",
+    "long": 6.88322
+  },
+  {
+    "lat": 53.334029,
+    "beschikbaarheid": 0,
+    "plaatsnaam": "Winsum",
+    "long": 6.518603
+  },
+  {
+    "lat": 53.362239,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Leens",
+    "long": 6.376488
+  },
+  {
+    "lat": 53.410075,
+    "beschikbaarheid": 1,
+    "plaatsnaam": "Uithuizen",
+    "long": 6.676858
+  }
+]

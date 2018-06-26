@@ -1,0 +1,502 @@
+1034;Amsterdam;Adres;Statenjachtstraat 1c, 1034 CS
+1034;Amsterdam;Beschikbaarheid;24 uur
+1061;Amsterdam;Adres;Jan Tooropstraat 170, 1061 AE
+1061;Amsterdam;Beschikbaarheid;24 uur
+1075;Amsterdam (Hoofdvestiging));Adres;Karperweg 19-25, 1075 LB
+1075;Amsterdam (Hoofdvestiging));Beschikbaarheid;24 uur
+1091;Amsterdam;Adres;Oosterpark 9, 1091 AC
+1091;Amsterdam;Beschikbaarheid;24 uur
+1105;Amsterdam Zuidoost;Adres;Meibergdreef 9, 1105 AZ
+1105;Amsterdam Zuidoost;Beschikbaarheid;24 uur
+1141;Monnickendam;Adres;De Werf 1, 1141 HL
+1141;Monnickendam;Beschikbaarheid;24 uur
+1185;Amstelveen;Adres;Spinnerij 15, 1185 ZN
+1185;Amstelveen;Beschikbaarheid;24 uur
+1213;Post Zuid (Hilversum);Adres;Van Riebeeckweg 210a, 1213 XZ
+1213;Post Zuid (Hilversum);Beschikbaarheid;24 uur
+1261;Post Noord (Blaricum);Adres;Rijksstraatweg 1, 1261 AN
+1261;Post Noord (Blaricum);Beschikbaarheid;24 uur
+1326;Almere;Adres;Boomgaardweg 4, 1326 AC
+1326;Almere;Beschikbaarheid;24 uur
+1381;Post Vechtstreek (Weesp);Adres;Aetsveldselaan 65, 1381 CZ
+1381;Post Vechtstreek (Weesp);Beschikbaarheid;24 uur
+1431;Aalsmeer;Adres;Zwarteweg 77 A, 1431 VJ
+1431;Aalsmeer;Beschikbaarheid;24 uur
+1442;Purmerend;Adres;Cantekoogweg 17, 1442 LG
+1442;Purmerend;Beschikbaarheid;24 uur
+1502;Zaandam;Adres;Heijermansstraat 76, 1502 DR
+1502;Zaandam;Beschikbaarheid;24 uur
+1521;Wormerveer;Adres;Industrieweg 1c, 1521 NA
+1521;Wormerveer;Beschikbaarheid;24 uur
+1616;Hoogkarspel;Adres;Sluisweg 8, 1616 RT
+1616;Hoogkarspel;Beschikbaarheid;24 uur
+1687;Wognum;Adres;Nieuweweg 24b, 1687 BA
+1687;Wognum;Beschikbaarheid;24 uur
+1723;Noord-Scharwoude;Adres;De Mossel 23a, 1723 HX
+1723;Noord-Scharwoude;Beschikbaarheid;24 uur
+1742;Schagen;Adres;Lagedijkerweg 19b, 1742 NB
+1742;Schagen;Beschikbaarheid;24 uur
+1771;Wieringerwerf;Adres;Dr. Tamsmalaan 3, 1771 AB
+1771;Wieringerwerf;Beschikbaarheid;24 uur
+1786;Den Helder;Adres;Schrijnwerkersweg 12, 1786 PC
+1786;Den Helder;Beschikbaarheid;24 uur
+1791;Texel (Den Burg);Adres;Pontweg 100, 1791 LB
+1791;Texel (Den Burg);Beschikbaarheid;24 uur
+1812;Alkmaar Zuid;Adres;Diamantweg 24f, 1812 RC
+1812;Alkmaar Zuid;Beschikbaarheid;24 uur
+1823;Alkmaar Noord;Adres;Hertog Aalbrechtweg 6, 1823 DL
+1823;Alkmaar Noord;Beschikbaarheid;24 uur
+1969;Heemskerk;Adres;Strengweg 4, 1969 MG
+1969;Heemskerk;Beschikbaarheid;24 uur
+1981;Velsen;Adres;Amsterdamseweg 12, 1981 LE
+1981;Velsen;Beschikbaarheid;24 uur
+2015;Haarlem;Adres;Zijlweg 200, 2015 CK
+2015;Haarlem;Beschikbaarheid;24 uur
+2132;Hoofddorp;Adres;Jacobus  Spijkerdreef 400, 2132 PZ
+2132;Hoofddorp;Beschikbaarheid;24 uur
+2182;Hillegom;Adres;Hyacinthenlaan 1, 2182 DT
+2182;Hillegom;Beschikbaarheid;24 uur
+2203;Noordwijk;Adres;Van Berckelweg 34a, 2203 LB
+2203;Noordwijk;Beschikbaarheid;24 uur
+2241;Wassenaar;Adres;Hofcampweg 102, 2241 KJ
+2241;Wassenaar;Beschikbaarheid;24 uur
+2272;Leidschendam-Voorburg;Adres;Via Donizetti 1, 2272 VK
+2272;Leidschendam-Voorburg;Beschikbaarheid;24 uur
+2333;Leiden;Adres;Vondellaan 43, 2332 AA
+2333;Leiden;Beschikbaarheid;24 uur
+2353;Leiderdorp;Adres;Simon Smitweg 1a, 2353 GA
+2353;Leiderdorp;Beschikbaarheid;24 uur
+2408;Alphen aan den Rijn;Adres;Vorkweg 2, 2408 ZD
+2408;Alphen aan den Rijn;Beschikbaarheid;24 uur
+2441;Nieuwveen;Adres;Schoterhoek 2a, 2441 LD
+2441;Nieuwveen;Beschikbaarheid;24 uur
+2521;Den Haag (Waldorpstraat);Adres;Waldorpstraat 555, 2521 CK
+2521;Den Haag (Waldorpstraat);Beschikbaarheid;24 uur
+2544;Den Haag;Adres;Mangaanstraat 86, 2544 DW
+2544;Den Haag;Beschikbaarheid;24 uur
+2613;Delft;Adres;Krakeelpolderweg 51, 2613 NW
+2613;Delft;Beschikbaarheid;24 uur
+2651;Berkel en Rodenrijs;Adres;Berkelsepoort 25, 2651 JX
+2651;Berkel en Rodenrijs;Beschikbaarheid;24 uur
+2671;Naaldwijk (Westland);Adres;Galgepad 9, 2671 MV
+2671;Naaldwijk (Westland);Beschikbaarheid;24 uur
+2711;Zoetermeer;Adres;Brusselstraat 4, 2711 AJ
+2711;Zoetermeer;Beschikbaarheid;Dag/avond
+2718;Zoetermeer;Adres;Blauw-Roodlaan 290, 2718 SK
+2718;Zoetermeer;Beschikbaarheid;24 uur
+2806;Gouda;Adres;Zuider IJsseldijk 50, 2808 PB
+2806;Gouda;Beschikbaarheid;24 uur
+2841;Moordrecht;Adres;Middelweg 18D, 2841 LA
+2841;Moordrecht;Beschikbaarheid;24 uur
+2902;Capelle aan den Ijssel;Adres;Slotlaan 121, 2902 AP
+2902;Capelle aan den Ijssel;Beschikbaarheid;24 uur
+2941;Nederlek;Adres;C.G. Roosweg 150, 2941 LH
+2941;Nederlek;Beschikbaarheid;24 uur
+2993;Barendrecht;Adres;Breslau 2, 2993 LT
+2993;Barendrecht;Beschikbaarheid;24 uur
+3011;Rotterdam-Centrum;Adres;Schiedamsedijk 95, 3011 TP
+3011;Rotterdam-Centrum;Beschikbaarheid;24 uur
+3034;Rotterdam-Noord;Adres;Brugwachter 12, 3034 KD
+3034;Rotterdam-Noord;Beschikbaarheid;24 uur
+3079;Rotterdam - Zuid;Adres;Maasstadweg 21, 3079 DZ
+3079;Rotterdam - Zuid;Beschikbaarheid;24 uur
+3131;Vlaardingen;Adres;Hoogstad 501, 3131 KX
+3131;Vlaardingen;Beschikbaarheid;24 uur
+3199;Maasvlakte;Adres;Coloradoweg 20, 3199 LA
+3199;Maasvlakte;Beschikbaarheid;24 uur
+3203;Spijkenisse;Adres;Schenkelweg 90, 3203 LE
+3203;Spijkenisse;Beschikbaarheid;24 uur
+3221;Hellevoetsluis;Adres;Haringvlietweg 5, 3221 LS
+3221;Hellevoetsluis;Beschikbaarheid;24 uur
+3232;Brielle;Adres;Amer 7, 3232 HA
+3232;Brielle;Beschikbaarheid;24 uur
+3247;Dirksland;Adres;Watertoren 45D, 3247 CL
+3247;Dirksland;Beschikbaarheid;24 uur
+3252;Goedereede;Adres;Provincialeweg 12B, 3252 LR
+3252;Goedereede;Beschikbaarheid;Dag/avond
+3255;Oude Tonge;Adres;Tramweg 3, 3255 MB
+3255;Oude Tonge;Beschikbaarheid;Dag/avond
+3286;Klaaswaal;Adres;Molendijk 57, 3286 BG
+3286;Klaaswaal;Beschikbaarheid;24 uur
+3312;Dordrecht;Adres;Romboutslaan 105, 3312 KP
+3312;Dordrecht;Beschikbaarheid;24 uur
+3331;Zwijndrecht;Adres;Bootjessteeg 81 - 85, 3331 HA
+3331;Zwijndrecht;Beschikbaarheid;24 uur
+3355;Papendrecht;Adres;Kattestraat 4, 3355 PP
+3355;Papendrecht;Beschikbaarheid;24 uur
+3417;Montfoort;Adres;Willeskop 94, 3417 ME
+3417;Montfoort;Beschikbaarheid;Dag/avond
+3436;Nieuwegein;Adres;Nevelgaarde 1, 3436 ZZ
+3436;Nieuwegein;Beschikbaarheid;24 uur
+3447;Woerden;Adres;Polanerbaan 2, 3447 GN
+3447;Woerden;Beschikbaarheid;24 uur
+3561;Utrecht (Vader Rijndreef);Adres;Vader Rijndreef 1, 3561 XB
+3561;Utrecht (Vader Rijndreef);Beschikbaarheid;24 uur
+3582;Utrecht (Andreaelaan);Adres;Burg. Fockema Andreaelaan 90, 3582 KT
+3582;Utrecht (Andreaelaan);Beschikbaarheid;24 uur
+3608;Maarssen;Adres;Floraweg 18, 3608 BW
+3608;Maarssen;Beschikbaarheid;24 uur
+3645;Vinkeveen;Adres;Herenweg 105, 3645 DJ
+3645;Vinkeveen;Beschikbaarheid;24 uur
+3648;Wilnis;Adres;Geerkade 23, 3648 NX
+3648;Wilnis;Beschikbaarheid;Dag/avond
+3707;Zeist;Adres;Jagersingel 3, 3707 HL
+3707;Zeist;Beschikbaarheid;24 uur
+3743;Baarn;Adres;Molenweg 2, 3743 KM
+3743;Baarn;Beschikbaarheid;Dag/avond
+3769;Soesterberg;Adres;Stemerdingweg 13, 3769 CE
+3769;Soesterberg;Beschikbaarheid;Dag/avond
+3771;Barneveld;Adres;Nijkerkerweg 119, 3771 LA
+3771;Barneveld;Beschikbaarheid;24 uur
+3811;Amersfoort Centrum;Adres;Zonnehof 10, 3811 ND
+3811;Amersfoort Centrum;Beschikbaarheid;24 uur
+3823;Amersfoort Noord;Adres;Het Hofslot 1, 3823 VV
+3823;Amersfoort Noord;Beschikbaarheid;24 uur
+3843;Harderwijk;Adres;Deventerweg 70, 3843 DG
+3843;Harderwijk;Beschikbaarheid;24 uur
+3851;Ermelo (Putterweg);Adres;Putterweg 136, 3851 VG
+3851;Ermelo (Putterweg);Beschikbaarheid;24 uur
+3897;Zeewolde;Adres;Bosruiterweg 36, 3897 LV
+3897;Zeewolde;Beschikbaarheid;24 uur
+3911;Rhenen;Adres;Cuneraweg 354, 3911 RV
+3911;Rhenen;Beschikbaarheid;24 uur
+3931;Woudenberg;Adres;Europaweg 4, 3931 NJ
+3931;Woudenberg;Beschikbaarheid;Dag/avond
+3941;Doorn;Adres;Korte Molenweg 1, 3941 PW
+3941;Doorn;Beschikbaarheid;24 uur
+3958;Amerongen;Adres;Industrieweg - zuid 22, 3958 VX
+3958;Amerongen;Beschikbaarheid;Dag/avond
+3991;Houten;Adres;De Brug 2b, 3991 LN
+3991;Houten;Beschikbaarheid;Dag/avond
+4003;Tiel;Adres;Blomboorgerd 10, 4003 BX
+4003;Tiel;Beschikbaarheid;24 uur
+4041;Kesteren;Adres;Vincent van Goghstraat 20, 4041 GG
+4041;Kesteren;Beschikbaarheid;24 uur
+4101;Culemborg;Adres;Triosingel 34, 4101 XC
+4101;Culemborg;Beschikbaarheid;24 uur
+4156;Rumpt;Adres;Boutensteinseweg 4a, 4156 JZ
+4156;Rumpt;Beschikbaarheid;24 uur
+4204;Gorinchem;Adres;Banneweg 55, 4204 AA
+4204;Gorinchem;Beschikbaarheid;Nacht
+4231;Meerkerk;Adres;Energieweg 112, 4231 DJ
+4231;Meerkerk;Beschikbaarheid;24 uur
+4255;Nieuwendijk*(1);Adres;Doornseweg 2, 4255 GZ
+4255;Nieuwendijk*(1);Beschikbaarheid;Dag/avond
+4283;Giessen*(2);Adres;Handelstraat 2, 4283 JK
+4283;Giessen*(2);Beschikbaarheid;24 uur
+4301;Zierikzee;Adres;Koning Gustaafweg 2, 4301 NP
+4301;Zierikzee;Beschikbaarheid;24 uur
+4307;Oosterland;Adres;Molenweg 56B, 4307 AK
+4307;Oosterland;Beschikbaarheid;Dag/avond
+4328;Burgh-Haamstede;Adres;Dapperweg 28, 4328 BB
+4328;Burgh-Haamstede;Beschikbaarheid;24 uur
+4335;Middelburg;Adres;Stromenweg 5, 4335 JR
+4335;Middelburg;Beschikbaarheid;24 uur
+4364;Grijpskerke;Adres;Mariekerkseweg 52, 4364 AS
+4364;Grijpskerke;Beschikbaarheid;24 uur
+4416;Kruiningen;Adres;Weihoek 5M, 4416 PX
+4416;Kruiningen;Beschikbaarheid;24 uur
+4462;Goes;Adres;Verrijn Stuartweg 24, 4462 GE
+4462;Goes;Beschikbaarheid;24 uur
+4501;Oostburg;Adres;Pastoor van Genklaan 6, 4501 AJ
+4501;Oostburg;Beschikbaarheid;24 uur
+4535;Terneuzen;Adres;Wielingenlaan 2, 4535 PA
+4535;Terneuzen;Beschikbaarheid;24 uur
+4561;Hulst;Adres;Lyceumstraat 20, 4561 HV
+4561;Hulst;Beschikbaarheid;24 uur
+4614;Bergen op Zoom;Adres;Veilingdreef 41, 4614 RX
+4614;Bergen op Zoom;Beschikbaarheid;24 uur
+4631;Hoogerheide;Adres;Van der Heijdenstraat 6, 4631 NH
+4631;Hoogerheide;Beschikbaarheid;Dag/avond
+4671;Dinteloord ;Adres;Noordlangeweg 5, 4671 PK
+4671;Dinteloord ;Beschikbaarheid;24 uur
+4693;Poortvliet;Adres;Paasdijkweg 39, 4693 RE
+4693;Poortvliet;Beschikbaarheid;24 uur
+4715;Roosendaal (Rucphen);Adres;Rijksweg-Zuid 113, 4715 TA
+4715;Roosendaal (Rucphen);Beschikbaarheid;24 uur
+4751;Roosendaal-Noord (Oud-Gastel);Adres;Neon 15Q, 4751 XA
+4751;Roosendaal-Noord (Oud-Gastel);Beschikbaarheid;Dag/avond
+4761;Zevenbergen;Adres;Zuidelijke Randweg 1, 4761 RN
+4761;Zevenbergen;Beschikbaarheid;24 uur
+4815;Breda-Noord;Adres;Hoeksteen 10, 4815 PR
+4815;Breda-Noord;Beschikbaarheid;24 uur
+4851;Breda-Zuid (Ulvenhout);Adres;Chaamsebaan 4, 4851 SN
+4851;Breda-Zuid (Ulvenhout);Beschikbaarheid;24 uur
+4872;Etten Leur;Adres;Bredaseweg 171, 4872 LA
+4872;Etten Leur;Beschikbaarheid;Dag/avond
+4891;Rijsbergen;Adres;Sint Bavostraat 16A, 4891 CJ
+4891;Rijsbergen;Beschikbaarheid;Dag/avond
+4905;Oosterhout;Adres;Vaartweg 8G, 4905 BL
+4905;Oosterhout;Beschikbaarheid;24 uur
+5022;Tilburg-Zuid;Adres;Prof. Van Buchemlaan 12, 5022 KB
+5022;Tilburg-Zuid;Beschikbaarheid;24 uur
+5042;Tilburg-Noord;Adres;Brugstraat 2, 5042 SB
+5042;Tilburg-Noord;Beschikbaarheid;24 uur
+5061;Oisterwijk ;Adres;Kreitenstraat 40-42, 5061 PT
+5061;Oisterwijk ;Beschikbaarheid;Dag/avond
+5126;Gilze ;Adres;Klein Zwitserland 8, 5126 TA
+5126;Gilze ;Beschikbaarheid;Dag/avond
+5146;Waalwijk;Adres;De Gaard 128, 5146 AW
+5146;Waalwijk;Beschikbaarheid;24 uur
+5212;s-Hertogenbosch;Adres;Gruttostraat 14, 5212 VM
+5212;s-Hertogenbosch;Beschikbaarheid;24 uur
+5283;Boxtel;Adres;Brederodeweg 27, 5283 HA
+5283;Boxtel;Beschikbaarheid;24 uur
+5301;Zaltbommel;Adres;Steenweg 83, 5301 HK
+5301;Zaltbommel;Beschikbaarheid;24 uur
+5342;Oss;Adres;Aengelbertlaan 11, 5342 LA
+5342;Oss;Beschikbaarheid;24 uur
+5363;Velp NB;Adres;De Eek 1B, 5363 VD
+5363;Velp NB;Beschikbaarheid;Dag/avond
+5406;Uden;Adres;Eikenheuvelweg 5, 5406 NA
+5406;Uden;Beschikbaarheid;24 uur
+5443;Haps;Adres;Schuttersweg 14a, 5443 PR
+5443;Haps;Beschikbaarheid;24 uur
+5465;Veghel;Adres;Doornhoek 3738, 5465 TA
+5465;Veghel;Beschikbaarheid;24 uur
+5521;Eersel;Adres;Kerver 9A, 5521 DA
+5521;Eersel;Beschikbaarheid;24 uur
+5531;Bladel;Adres;Ambachtsweg 5, 5531 AC
+5531;Bladel;Beschikbaarheid;24 uur
+5555;Valkenswaard;Adres;De Vest 48, 5555 XP
+5555;Valkenswaard;Beschikbaarheid;24 uur
+5611;Eindhoven;Adres;Deken van Somerenstraat 2A, 5611 KX
+5611;Eindhoven;Beschikbaarheid;24 uur
+5683;Best;Adres;Vijverweg 12, 5683 CX
+5683;Best;Beschikbaarheid;24 uur
+5705;Helmond;Adres;Lagedijk 4b, 5705 BZ
+5705;Helmond;Beschikbaarheid;24 uur
+5737;Lieshout;Adres;De Stater , 5737 RV
+5737;Lieshout;Beschikbaarheid;24 uur
+5751;Deurne ;Adres;Dunantweg 16, 5751 CB
+5751;Deurne ;Beschikbaarheid;24 uur
+5802;Venray;Adres;Acaciastraat 15, 5802 EK
+5802;Venray;Beschikbaarheid;24 uur
+5855;Well;Adres;Bosscherheide 29 a, 5855 EA
+5855;Well;Beschikbaarheid;24 uur
+5912;Venlo;Adres;Tegelseweg 210, 5912 BL
+5912;Venlo;Beschikbaarheid;24 uur
+5928;Blerick;Adres;van Heemskerckweg 8, 5928 LL
+5928;Blerick;Beschikbaarheid;24 uur
+5961;Horst;Adres;Venloseweg 70 a, 5961 JD
+5961;Horst;Beschikbaarheid;24 uur
+6003;Weert;Adres;Celsiusstraat 11, 6003 DG
+6003;Weert;Beschikbaarheid;24 uur
+6026;Maarheeze;Adres;Rondven 32, 6026 PX
+6026;Maarheeze;Beschikbaarheid;24 uur
+6037;Kelpen;Adres;Ellerweg 2 b, 6037 RS
+6037;Kelpen;Beschikbaarheid;24 uur
+6043;Roermond;Adres;Nassaustraat 79, 6043 EB
+6043;Roermond;Beschikbaarheid;24 uur
+6049;Herten;Adres;Louis Eijssenweg 4, 6049 CD
+6049;Herten;Beschikbaarheid;24 uur
+6088;Roggel;Adres;Heverstraat 9, 6088 BG
+6088;Roggel;Beschikbaarheid;24 uur
+6101;Echt ;Adres;Nobelweg 4, 6101 XB
+6101;Echt ;Beschikbaarheid;24 uur
+6162;Geleen;Adres;Demystraat 15, 6162 AP
+6162;Geleen;Beschikbaarheid;24 uur
+6226;Maastricht;Adres;Vijverdalseweg 2, 6226 NB
+6226;Maastricht;Beschikbaarheid;24 uur
+6271;Gulpen;Adres;Oude Rijksweg 32, 6271 AA
+6271;Gulpen;Beschikbaarheid;24 uur
+6411;Heerlen;Adres;Het Overloon 2, 6411 TE
+6411;Heerlen;Beschikbaarheid;24 uur
+6525;Nijmegen;Adres;Professor Bellefroidstraat  11, 6525 AG
+6525;Nijmegen;Beschikbaarheid;24 uur
+6591;Gennep;Adres;Paesplasweg 2, 6591 MH
+6591;Gennep;Beschikbaarheid;Dag/avond
+6641;Beuningen;Adres;Elsenpas 11, 6641 KM
+6641;Beuningen;Beschikbaarheid;24 uur
+6658;Beneden Leeuwen;Adres;Van Heemstraweg 64D, 6658 KJ
+6658;Beneden Leeuwen;Beschikbaarheid;24 uur
+6711;Ede;Adres;Breelaan 4 - 6, 6711 MR
+6711;Ede;Beschikbaarheid;24 uur
+6825;Arnhem IJsseloord;Adres;Meander 401, 6825 MD
+6825;Arnhem IJsseloord;Beschikbaarheid;24 uur
+6901;Zevenaar;Adres;Kampsingel 34, 6901 JG
+6901;Zevenaar;Beschikbaarheid;24 uur
+7005;Doetinchem;Adres;Havenstraat 122, 7005 AG
+7005;Doetinchem;Beschikbaarheid;24 uur
+7051;Varsseveld;Adres;Klaproosstraat 28, 7051 ZH
+7051;Varsseveld;Beschikbaarheid;24 uur
+7075;Etten;Adres;Zeddamseweg 43a, 7075 ED
+7075;Etten;Beschikbaarheid;24 uur
+7102;Winterswijk;Adres;Magnoliastraat 9, 7102 CX
+7102;Winterswijk;Beschikbaarheid;24 uur
+7141;Groenlo;Adres;Barkenkamp 5, 7141 EL
+7141;Groenlo;Beschikbaarheid;24 uur
+7207;Zutphen;Adres;Den Elterweg 65, 7207 AE
+7207;Zutphen;Beschikbaarheid;24 uur
+7223;Baak;Adres;Dambroek 16, 7223 DV
+7223;Baak;Beschikbaarheid;24 uur
+7271;Borculo;Adres;Bosberg 9, 7271 LE
+7271;Borculo;Beschikbaarheid;24 uur
+7323;Apeldoorn;Adres;Kanaal Noord 380, 7323 AM
+7323;Apeldoorn;Beschikbaarheid;24 uur
+7332;Apeldoorn;Adres;Saba 2, 7332 BH
+7332;Apeldoorn;Beschikbaarheid;24 uur
+7418;Deventer;Adres;Nijmegensestraat 11, 7418 BZ
+7418;Deventer;Beschikbaarheid;24 uur
+7433;Deventer Noord (Schalkhaar);Adres;Raalterweg 18A, 7433 RA
+7433;Deventer Noord (Schalkhaar);Beschikbaarheid;24 uur
+7443;Nijverdal;Adres;Van Heerdtweg 7, 7443 TA
+7443;Nijverdal;Beschikbaarheid;24 uur
+7475;Markelo;Adres;Holterweg 32A, 7475 AW
+7475;Markelo;Beschikbaarheid;24 uur
+7482;Haaksbergen;Adres;Hengelosestraat 174, 7482 AE
+7482;Haaksbergen;Beschikbaarheid;24 uur
+7513;Enschede;Adres;M.H.Tromplaan 47, 7513 AB
+7513;Enschede;Beschikbaarheid;24 uur
+7556;Hengelo;Adres;Demmersweg 55, 7556 BN
+7556;Hengelo;Beschikbaarheid;24 uur
+7577;Oldenzaal;Adres;Zandbreeweg 16, 7577 BZ
+7577;Oldenzaal;Beschikbaarheid;24 uur
+7609;Almelo;Adres;Nieuwe Witvoet 2, 7609 NE
+7609;Almelo;Beschikbaarheid;24 uur
+7651;Tubbergen;Adres;Boskampstraat 35, 7651 AL
+7651;Tubbergen;Beschikbaarheid;24 uur
+7681;Vroomshoop;Adres;Aziëlaan 2, 7681 NC
+7681;Vroomshoop;Beschikbaarheid;24 uur
+7701;Dedemsvaart;Adres;Langewijk 124A, 7701 AH
+7701;Dedemsvaart;Beschikbaarheid;24 uur
+7731;Ommen;Adres;Balkerweg 22D, 7731 RZ
+7731;Ommen;Beschikbaarheid;24 uur
+7741;Coevorden;Adres;Hulsvoorderdijk 4, 7741 CX
+7741;Coevorden;Beschikbaarheid;24 uur
+7772;Hardenberg;Adres;Jan Weitkamplaan 4A, 7772 SE
+7772;Hardenberg;Beschikbaarheid;24 uur
+7812;Emmen;Adres;Waanderweg 200, 7812 HZ
+7812;Emmen;Beschikbaarheid;24 uur
+7824;Emmen-ziekenhuis;Adres;Boermarkeweg 60, 7824 AA
+7824;Emmen-ziekenhuis;Beschikbaarheid;Dag/avond
+7881;Emmen-Noord;Adres;Kanaal B ZZ 55, 7881 NC
+7881;Emmen-Noord;Beschikbaarheid;24 uur
+7891;Klazienaveen;Adres;Doorndistel 15, 7891 WV
+7891;Klazienaveen;Beschikbaarheid;24 uur
+7905;Hoogeveen Buitenvaart;Adres;Buitenvaart 1005, 7905 SB
+7905;Hoogeveen Buitenvaart;Beschikbaarheid;Dag/avond
+7909;Hoogeveen;Adres;Dr.G.H.Amshoffweg 1, 7909 AA
+7909;Hoogeveen;Beschikbaarheid;24 uur
+7943;Meppel;Adres;Hoogeveenseweg 38, 7943 KA
+7943;Meppel;Beschikbaarheid;24 uur
+7954;Rouveen;Adres;Oude Rijksweg 502B, 7954 GG
+7954;Rouveen;Beschikbaarheid;24 uur
+7984;Dieverbrug;Adres;De Wringen 25a, 7984 NL
+7984;Dieverbrug;Beschikbaarheid;24 uur
+8013;Zwolle;Adres;Voltastraat 3A, 8013 PM
+8013;Zwolle;Beschikbaarheid;24 uur
+8043;Zwolle West ;Adres;Nijenhuislaan 175, 8043 WB
+8043;Zwolle West ;Beschikbaarheid;24 uur
+8064;Zwartsluis;Adres;Zomerdijk 41A, 8064 XB
+8064;Zwartsluis;Beschikbaarheid;24 uur
+8081;Elburg;Adres;Oostelijke Rondweg 1, 8081 RT
+8081;Elburg;Beschikbaarheid;24 uur
+8103;Raalte;Adres;Weidelaan 2B, 8103 NA
+8103;Raalte;Beschikbaarheid;24 uur
+8181;Heerde;Adres;Zwarteweg 4A, 8181 PD
+8181;Heerde;Beschikbaarheid;24 uur
+8233;Lelystad;Adres;Gordiaandreef 99, 8233 AB
+8233;Lelystad;Beschikbaarheid;24 uur
+8251;Dronten;Adres;De Noord 34, 8251 GL
+8251;Dronten;Beschikbaarheid;24 uur
+8271;IJsselmuiden;Adres;Kleiland 8, 8271 RV
+8271;IJsselmuiden;Beschikbaarheid;24 uur
+8304;Emmeloord;Adres;Nagelerweg 3, 8304 AB
+8304;Emmeloord;Beschikbaarheid;24 uur
+8321;Urk;Adres;Malzwin 1, 8321 NX
+8321;Urk;Beschikbaarheid;24 uur
+8331;Steenwijk;Adres;Vendelweg 3A, 8331 XE
+8331;Steenwijk;Beschikbaarheid;24 uur
+8414;Nieuwehorne;Adres;Achtste Wijk 1a, 8414 NA
+8414;Nieuwehorne;Beschikbaarheid;Dag/avond
+8431;Oosterwolde;Adres;Veengang 27, 8431 NJ
+8431;Oosterwolde;Beschikbaarheid;24 uur
+8448;Heerenveen;Adres;Venus 3, 8448 CE
+8448;Heerenveen;Beschikbaarheid;24 uur
+8472;Wolvega;Adres;Zeeweegbree 3, 8472 BD
+8472;Wolvega;Beschikbaarheid;24 uur
+8503;Joure;Adres;Morseweg 17, 8503 AH
+8503;Joure;Beschikbaarheid;24 uur
+8531;Lemmer;Adres;Houtsaachmolen 13b, 8531 WC
+8531;Lemmer;Beschikbaarheid;24 uur
+8601;Sneek;Adres;Bolswarderbaan 1, 8601 ZK
+8601;Sneek;Beschikbaarheid;24 uur
+8701;Bolsward;Adres;Snekerweg 3b, 8701 PZ
+8701;Bolsward;Beschikbaarheid;24 uur
+8723;Koudum;Adres;T. van der Walstraat 32, 8723 CA
+8723;Koudum;Beschikbaarheid;24 uur
+8802;Franeker;Adres;Het Want 16, 8802 PV
+8802;Franeker;Beschikbaarheid;24 uur
+8861;Harlingen;Adres;Rijksweg 8, 8861 NL
+8861;Harlingen;Beschikbaarheid;24 uur
+8881;Terschelling;Adres;Burg. Reedekerstraat 21, 8881 BZ
+8881;Terschelling;Beschikbaarheid;24 uur
+8899;Vlieland;Adres;Berkenlaan 13a, 8899 BP
+8899;Vlieland;Beschikbaarheid;24 uur
+8924;Leeuwarden (Elzenstraat);Adres;Elzenstraat 1c, 8924 JN
+8924;Leeuwarden (Elzenstraat);Beschikbaarheid;24 uur
+8932;Leeuwarden (Oostergoweg);Adres;Oostergoweg 14, 8932 PG
+8932;Leeuwarden (Oostergoweg);Beschikbaarheid;24 uur
+9001;Grou;Adres;Oedsmawei 30, 9001 ZJ
+9001;Grou;Beschikbaarheid;Dag/avond
+9051;Stiens;Adres;Seedûker 5, 9051 VB
+9051;Stiens;Beschikbaarheid;Dag/avond
+9101;Dokkum;Adres;Birdaarderstraatweg 80f, 9101 PK
+9101;Dokkum;Beschikbaarheid;24 uur
+9123;Metslawier;Adres;Oerslach 2a, 9123 KK
+9123;Metslawier;Beschikbaarheid;24 uur
+9163;Nes (Ameland);Adres;Ballummerweg 38a, 9163 GB
+9163;Nes (Ameland);Beschikbaarheid;24 uur
+9166;Schiermonnikoog;Adres;Knuppeldam 6, 9166 NZ
+9166;Schiermonnikoog;Beschikbaarheid;24 uur
+9201;Drachten;Adres;Omloop 5, 9201 CC
+9201;Drachten;Beschikbaarheid;Dag/avond
+9207;Drachten;Adres;Ottolaan 2, 9207 JR
+9207;Drachten;Beschikbaarheid;24 uur
+9257;Noordbergum;Adres;Oude Commissieweg 31, 9257 MC
+9257;Noordbergum;Beschikbaarheid;24 uur
+9285;Buitenpost;Adres;West 32, 9285 WC
+9285;Buitenpost;Beschikbaarheid;24 uur
+9301;Roden;Adres;Zudden 2, 9301 ZM
+9301;Roden;Beschikbaarheid;24 uur
+9365;Niebert;Adres;Grasweg 1b, 9365 PP
+9365;Niebert;Beschikbaarheid;24 uur
+9403;Assen Centrum;Adres;Dr. Philipsweg 15-A, 9403 AC
+9403;Assen Centrum;Beschikbaarheid;Dag/avond
+9405;Assen;Adres;Balkendwarsweg 1, 9405 PT
+9405;Assen;Beschikbaarheid;24 uur
+9411;Beilen;Adres;Romhof 6, 9411 SC
+9411;Beilen;Beschikbaarheid;24 uur
+9431;Westerbork;Adres;Sliemkampen 2, 9431 JR
+9431;Westerbork;Beschikbaarheid;Dag/avond
+9468;Annen;Adres;Spijkerboorsdijk 3a, 9468 CG
+9468;Annen;Beschikbaarheid;24 uur
+9502;Stadskanaal;Adres;Veenstraat 8, 9502 EZ
+9502;Stadskanaal;Beschikbaarheid;24 uur
+9531;Borger;Adres;IJzertijdstraat 3, 9531 RA
+9531;Borger;Beschikbaarheid;24 uur
+9541;Vlagtwedde;Adres;Nieuweweg 1, 9541 EG
+9541;Vlagtwedde;Beschikbaarheid;Dag/avond
+9561;Ter Apel;Adres;Industrieweg 9, 9561 MB
+9561;Ter Apel;Beschikbaarheid;24 uur
+9611;Sappemeer;Adres;De Vosholen 99, 9611 TE
+9611;Sappemeer;Beschikbaarheid;24 uur
+9641;Veendam;Adres;Van Stolbergweg 28, 9641 HL
+9641;Veendam;Beschikbaarheid;24 uur
+9672;Winschoten;Adres;J.D. van der Veenstraat 30, 9672 AC
+9672;Winschoten;Beschikbaarheid;24 uur
+9723;Groningen-Zuid;Adres;Sontweg 10, 9723 AT
+9723;Groningen-Zuid;Beschikbaarheid;24 uur
+9741;Groningen-Noord;Adres;Kastanjelaan 2, 9741 CP
+9741;Groningen-Noord;Beschikbaarheid;24 uur
+9761;Eelde;Adres;Machlaan 14-A, 9761 KT
+9761;Eelde;Beschikbaarheid;Dag/avond
+9902;Appingedam;Adres;Zwet 35, 9902 RM
+9902;Appingedam;Beschikbaarheid;24 uur
+9951;Winsum;Adres;De Werf 5, 9951 EZ
+9951;Winsum;Beschikbaarheid;Dag/avond
+9965;Leens;Adres;R.Ritzemastraat 9E, 9965 TD
+9965;Leens;Beschikbaarheid;24 uur
+9981;Uithuizen;Adres;Industrieweg 16, 9981 HJ
+9981;Uithuizen;Beschikbaarheid;24 uur
